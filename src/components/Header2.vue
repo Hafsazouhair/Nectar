@@ -21,10 +21,11 @@
           </div>
         </div>
       </div>
+    
       <div class="navbar magic-shadow">
         <div class="container flex justify-center">
           <a href="#" class="active">Home</a>
-          <a href="#">About us</a>
+          <a class="navlink" href="#about">About us</a>
           <a href="#">Products</a>
           <a href="#">Blog</a>
           <a href="#">Shop</a>
